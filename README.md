@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋👋👋
 
 <!--
 **annewanghy/annewanghy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 😃 Who am I : My name is anne wang, I'm a girl 👩🏼, my chinese name is WangHuiying 🇨🇳
+- 🧐 What I'm working on: frontend
+- 😘 What I enjoy: friends, movies, music🎻, and eat fruits🍎🍅🍐🍉🍇, trying to be a vegetarian🥦🥬
+- 🎁 Stay healthy and keep studing: 🤸🚴🏌
