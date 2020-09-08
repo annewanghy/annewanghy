@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 😃 Who am I : My name is anne wang, I'm a girl 👩🏼, my chinese name is WangHuiying 🇨🇳
 - 🧐 What I'm working on: frontend
-- 😘 What I enjoy: friends, movies, music🎻, and eat fruits🍎🍅🍐🍉🍇, trying to be a vegetarian🥦🥬
+- 😘 What I enjoy: friends, movies, music🎻, and eat fruits🍎🍅🍐🍉🍇
 - 🎁 Stay healthy and keep studing: 🤸🚴🏌
